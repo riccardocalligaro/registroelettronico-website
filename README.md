@@ -1,3 +1,5 @@
-## Official website of the Registro Elettronico App
+<h1 align="center">
+  <img src="https://i.imgur.com/BCktmzl.png" alt="Registto elettronico"><br>
+</h1>
 
-This is the website for [this]() app.
+Official website for the registro elettronico application.
